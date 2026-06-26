@@ -8,7 +8,7 @@ Anlık durum analizi, süreç optimizasyonu ve performans takibi süreçlerine k
 
 ## 🖥️ Proje Arayüzü
 
-![Sales Dashboard](media/Excel%20Dashboard.png)
+![Sales Dashboard](Excel%20Dashboard.png)
 *Not: Dashboard'un interaktif çalışma dinamiklerini ve dilimleyici (slicer) geçişlerini görmek için klasör içerisindeki çalışma videosunu inceleyebilirsiniz.*
 
 ---
