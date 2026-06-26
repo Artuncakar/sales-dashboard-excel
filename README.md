@@ -31,7 +31,7 @@ Anlık durum analizi, süreç optimizasyonu ve performans takibi süreçlerine k
 
 ## 🚀 Nasıl İnceleyebilirsiniz?
 
-1.  Projenin çalışan interaktif halini deneyimlemek için `Excel proje.xlsx` klasöründeki Excel dosyasını bilgisayarınıza indirebilirsiniz.
+1.  Projenin çalışan interaktif halini deneyimlemek için `src/` klasöründeki Excel dosyasını bilgisayarınıza indirebilirsiniz.
 2.  Görünüm kalitesini bozmamak adına Excel üzerinde `Görünüm -> Kılavuz Çizgileri` ve `Başlıklar` seçenekleri kapatılarak kurumsal bir arayüz (UI) yapısı elde edilmiştir.
 
 ---
